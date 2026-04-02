@@ -34,4 +34,7 @@ Foi utilizada a arquitetura **MobileNetV2**, desenvolvida pelo Google.
 3. Vá em `Ambiente de execução` > `Executar tudo` (ou rode célula por célula).
 4. Não é necessário fazer o download manual de nenhum dataset, o código já resolve isso automaticamente na primeira célula.
 
+## Resultados
+<img width="1251" height="481" alt="image" src="https://github.com/user-attachments/assets/cb6836b0-c61c-4a75-9dc4-0a5a62dd5bb1" />
+
 ---
